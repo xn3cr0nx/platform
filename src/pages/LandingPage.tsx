@@ -59,9 +59,11 @@ const Landing = () => {
                   {/* <span className="text-white">secured</span> */}
                 </h1>
                 <p className="text-white mb-3">
-                  Poseidon is the DAO made up of best artists and collectors
-                  collective. Shared governance on a massive treasury, support
-                  NFTs mainstream adoption and unlock NFTs' DeFi
+                  Poseidon DAO brings NFTs to the next step, enabling their
+                  evolution. The DAO is built on top of the knowledge of a huge
+                  collective of artists and collectors, in order to create a
+                  decentralized entity that can lead NFTs and crypto art to
+                  another level.
                 </p>
                 <div className="btn-wrapper">
                   <div className="button-container">
@@ -203,7 +205,7 @@ const Landing = () => {
                             </Col>
                             <Col md="8" xs="7">
                               <div className="numbers">
-                                <CardTitle tag="p">3</CardTitle>
+                                <CardTitle tag="p">4</CardTitle>
                                 <p />
                                 <p className="card-category">Collections</p>
                               </div>
@@ -223,7 +225,7 @@ const Landing = () => {
                             </Col>
                             <Col md="8" xs="7">
                               <div className="numbers">
-                                <CardTitle tag="p">800+</CardTitle>
+                                <CardTitle tag="p">3000+</CardTitle>
                                 <p />
                                 <p className="card-category">NFTs</p>
                               </div>
@@ -265,7 +267,7 @@ const Landing = () => {
                             </Col>
                             <Col md="8" xs="7">
                               <div className="numbers">
-                                <CardTitle tag="p">$XM+</CardTitle>
+                                <CardTitle tag="p">$10M+</CardTitle>
                                 <p />
                                 <p className="card-category">Value</p>
                               </div>

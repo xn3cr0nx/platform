@@ -47,17 +47,29 @@ export default function Footer() {
           <Col md="2">
             <Nav>
               <NavItem>
-                <NavLink href="mailto://info@poseidonnft.org">
+                <NavLink
+                  href="mailto://info@poseidonnft.org"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Contact Us
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://mirror.xyz">
+                <NavLink
+                  href="https://mirror.xyz/0x4Ac0eaC004c87e43a8D52CAC8B431FEaFBb9B62b"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Blog
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://poseidongroup.ch/">
+                <NavLink
+                  href="https://poseidongroup.ch/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Group
                 </NavLink>
               </NavItem>
