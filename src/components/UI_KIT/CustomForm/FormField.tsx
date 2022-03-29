@@ -61,7 +61,7 @@ export function FormField({ required = true, onChange, type, value }: FormFieldP
           <>
             <Label aria-required={true}>
               {type === "website"
-                ? "Website" //@ts-ignore
+                ? "Website/Portfolio" //@ts-ignore
                 : type.charAt(0).toUpperCase() +
                   type.slice(1) +
                   ` URL ${required ? "*" : ""}`}
