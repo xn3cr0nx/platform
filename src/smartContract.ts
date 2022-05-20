@@ -1,6 +1,7 @@
 import { keccak256 } from "@ethersproject/keccak256";
 import { toUtf8Bytes } from "@ethersproject/strings";
 
+// TODO: move to env var
 export const ERC20Address = "0x1993e340B90eA07c9f646B60C0e9B5148253902e";
 export const multiSigAddress = "0xA342A3106D77859C8d5100A5aDcE39F4159caaf4";
 
