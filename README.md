@@ -1,3 +1,5 @@
+This repository is archived since new platform is implemented into poseidondao.org repository.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
